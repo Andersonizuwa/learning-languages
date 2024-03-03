@@ -1,2 +1,2 @@
 # learning-languages
-Learning Languages Worldwide NextJS
+Learning Languages Worldwide Stack - Tailwind, NextJs, Formspree
